@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author NEW
+ *
+ */
+module JavaPractice {
+}
